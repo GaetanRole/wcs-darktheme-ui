@@ -23,6 +23,7 @@ http://flight-manual.atom.io/hacking-atom/sections/creating-a-theme/
 - Symfony example (syntax theme)
 ![alt text](https://raw.githubusercontent.com/GaetanRole/wcs-darktheme-ui/master/screenshots/Capture4.png)
 
-## Informations
+## Information
 
 If you want more information, contact the author of this template (myself) or the WCS organization.
+See you.
